@@ -10,3 +10,4 @@ robosys2016のROS課題
 3. $ rosrun robosys_ros led_pub.py
 
 #動画リンク
+https://youtu.be/5jrI7srq2fk
